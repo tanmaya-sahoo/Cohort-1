@@ -129,3 +129,13 @@
 // console.log(name) //temporal dead zone
 // let name = "Arko"
 // }
+
+// {
+//     let name = "Arko";
+//     console.log(name)
+//     {
+//         console.log(name); // ReferenceError: Cannot access 'name' before initialization
+//         // let name = "Arko"
+//         console.log(name)
+//     }
+// }
