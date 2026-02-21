@@ -118,7 +118,7 @@
 // console.log(name) //Output will be blank, no error
 
 //Hoisting
-
+//Hoisting in JavaScript is a behavior where declarations of variables, functions, and classes are conceptually moved to the top of their containing scope during the compilation phase, before the code is executed.
 // console.log(a)
 // let a = "Arko" // ReferenceError: Cannot access 'a' before initialization
 
