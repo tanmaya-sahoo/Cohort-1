@@ -55,3 +55,44 @@
 // console.log(arr)
 // console.log(object["Student"])
 // console.log(object.Age)
+
+//normal function
+// function print(a,b){
+//     console.log(a+b)
+// }
+
+// + number,string consider
+// - preference number high, string low
+
+// print(2,3)
+// print(2,"3")
+//print("Arko","Roy")
+
+
+// const fn1 = function(a,b){
+//     console.log(a+b)
+// }
+
+// const fn2 = (a,b) => {
+//     console.log(a+b)
+// }
+
+//fn()
+//fn1(2,3)
+
+//HighOrder Function - function that takes another function as an argument or returns a function
+// function HO(a,b,cb){ //cb is callback function
+//     console.log(a,b)
+//     cb(a,b)
+// }
+
+// HO(2,3,print);
+
+// console.log("Start")
+
+// setTimeout(() => {
+//     console.log("My Process")
+// }, 2000)
+
+// console.log("End")
+
