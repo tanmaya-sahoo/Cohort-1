@@ -86,3 +86,43 @@ let name1;
 
 
 console.log("hii")
+
+
+
+// let arr = [1,2,3,4]
+// console.log(arr)
+
+
+
+// // key value pair-"obj"
+// let obj = {
+//     "student": "divya",
+//     "mentor" : "pratham"
+
+// }
+// console.log(obj)
+// console.log(obj.student) //property
+// console.log(obj["mentor"])
+
+
+
+
+function add(a,b){
+    console.log(a + b)
+}
+
+// + string as a number > number
+// - number > string
+
+add(2,"4")
+add("divya"," rayaguru")
+
+
+
+
+
+
+
+
+
+
