@@ -114,3 +114,35 @@
 //     console.log(name);
 //   }
 // }
+
+//     **************************online class **********************************
+
+// var name = "subhankar";
+// function myFunction() {
+//   console.log(name);
+// }
+// myFunction(); // Output: "subhankar"
+
+// var x; //declaration
+// x=10; //initialization
+// x=11 //reassigning
+
+// let : global scope and block scope
+//       reinitialization but no redeclaration
+// let x;
+// //let x = 10; //SyntaxError: Identifier 'x' has already been declared
+// x=11; //reassigning
+
+// const: redeclaration and reassigning not allowed
+// const : global scope and block scope
+// value must be assigned at the time of declaration
+// value cannot be changed later
+
+// const x = 10; //SyntaxError: Missing initializer in const declaration
+
+// const x = 10;
+// x = 11; //TypeError: Assignment to constant variable.
+
+// deadzone
+// console.log(x); // ReferenceError: Cannot access 'x' before initialization
+// let x = 10;
