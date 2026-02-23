@@ -1,6 +1,6 @@
-console.log("Hello, World!");
-console.log("Second");
-console.log("Third");
+// console.log("Hello, World!");
+// console.log("Second");
+// console.log("Third");
 
 //variables
 // var let const
